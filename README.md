@@ -1,2 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5G96Uez4)
 Lab 1: In this, we went through multiple examples of code and determined if they were mutable or immutable.
+Lab 2: In this lab, we first reviewed all the examples and then predicted their outcomes. After making our predictions, we proceeded to Jupiter Labs to verify our results and determine the actual outcomes. 
